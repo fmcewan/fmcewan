@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there, I'm Fraser👋
 
 I'm a recent graduate with a degree in Computer Science and Mathematics. I'm passionate about building effective, scalable software and finding creative solutions to complex problems, especially where AI/ML and algorithms are concerned.
 
